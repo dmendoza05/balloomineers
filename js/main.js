@@ -67,7 +67,7 @@
     get: 'tagged',
     tagName: 'balloomineers',
     clientId: '087db4d9aaa849a693e46570fcbac639',
-    sortBY: 'most-recent',
+    sortBY: 'most-liked',
     resolution: 'low_resolution',
     limit: 4,
     template: '<li class="instaPic"><a href="{{link}}"><img src="{{image}}"/></a><img class="like" src="images/like.png"/><p>{{model.likes.count}}</p><img class="comment" src="images/comment.png"/><p id="cp">{{model.comments.count}}</p></li>'
