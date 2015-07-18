@@ -398,3 +398,9 @@ footer p a {
     text-decoration: underline;
   }
 }
+
+@media (max-width: 400px) {
+  .container {
+    width: 85%;
+    padding: 0; }
+}
