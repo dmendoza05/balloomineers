@@ -255,6 +255,9 @@ input[type="checkbox"].navbar-checkbox {
   right: -10px;
   margin-bottom: 25px;
 }
+.inquiry {
+  padding-top: 50px;
+}
 input[type="submit"].btn-submit {
   color: #90125f;
   background-color: #ffffff;
@@ -263,6 +266,21 @@ input[type="submit"].btn-submit {
 input[type="submit"].btn-submit:hover {
   background-color: #90125f;
   border: 1px solid #ffffff;
+}
+.partner {
+  width: 100;
+  padding: 20px;
+}
+.partner p{
+  display: block;
+}
+.partner p a{
+  /*text-decoration: none;*/
+  color: #ffffff;
+}
+.partner img{
+  display: inline-block;
+  width: 200px;
 }
 footer {
   color: white;
