@@ -141,7 +141,6 @@ input[type="checkbox"].navbar-checkbox {
   position: relative;
   color: #ffffff;
   margin: 0 10px;
-  padding-bottom: 50px;
 }
 .theGallery {
   background-color: #ffffff;
@@ -269,10 +268,12 @@ input[type="submit"].btn-submit:hover {
 }
 .partner {
   width: 100;
-  padding: 20px;
+  text-align: center;
+  padding-bottom: 50px; 
 }
 .partner p{
   display: block;
+  color: #ffffff;
 }
 .partner p a{
   /*text-decoration: none;*/
