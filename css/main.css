@@ -283,6 +283,9 @@ input[type="submit"].btn-submit:hover {
   display: inline-block;
   width: 200px;
 }
+.heidi {
+  margin: 40px 0;
+}
 footer {
   color: white;
   font-size: 0.8em;
